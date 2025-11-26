@@ -1,0 +1,25 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Android Studio captures and navigation editor
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+
+# OS specific
+.DS_Store
+Thumbs.db
+
